@@ -1,4 +1,5 @@
 package Codeforces;
+
 public class Two_string_sum {
     public static String check(String g , String h){
         int i = g.length()-1;
