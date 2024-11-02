@@ -6,7 +6,7 @@ public class Beautiful_Year {
             int y = sc.nextInt();
             int i = y+1;
             boolean f = true;
-            while(i <= 9000000){
+            while(i <= 10000){
                 
                 String c = Integer.toString(i);
                 String x = "";
