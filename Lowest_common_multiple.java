@@ -1,6 +1,6 @@
 package Codeforces;
 import java.util.Scanner;
-public class Lowest {
+public class Lowest_common_multiple {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int f = sc.nextInt();
