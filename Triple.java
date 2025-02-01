@@ -1,4 +1,4 @@
-// package Codeforces;
+package Codeforces;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
