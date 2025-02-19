@@ -1,4 +1,4 @@
-// package Codeforces;
+package Codeforces;
 import java.util.HashMap;
 import java.util.Scanner;
 public class Two_gram {
